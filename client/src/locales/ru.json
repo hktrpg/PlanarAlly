@@ -2,7 +2,8 @@
     "locale": {
         "select": "Выберите язык:",
         "en": "English",
-        "zh": "中文",
+        "zh-cn": "簡體中文",
+        "zh-tw":"繁體中文",
         "de": "Deutsch",
         "ru": "Русский",
         "dk": "Dansk",
